@@ -1,0 +1,16 @@
+[
+  {
+	"StopCode":"RWA-888-1",
+    "ChiName":"歡迎乘搭",
+    "ChiSoundId":"",
+    "EngName":"WELCOME ONBOARD",
+    "EngSoundId":"",
+  },
+  {
+	"StopCode":"NSA-1532-A",
+    "ChiName":"車廠三樓",
+    "ChiSoundId":"",
+    "EngName":"DEPORT 3/F",
+    "EngSoundId":"",
+  },
+]
