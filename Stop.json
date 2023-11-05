@@ -7,10 +7,24 @@
     "EngSoundId":"",
   },
   {
-	"StopCode":"NSA-1532-A",
+	"StopCode":"NSA-0001-A",
     "ChiName":"車廠三樓",
     "ChiSoundId":"",
     "EngName":"DEPORT 3/F",
+    "EngSoundId":"",
+  },
+	  {
+	"StopCode":"NSA-0002-A",
+    "ChiName":"車廠二樓",
+    "ChiSoundId":"",
+    "EngName":"DEPORT 2/F",
+    "EngSoundId":"",
+  },
+	  {
+	"StopCode":"NSA-0003-A",
+    "ChiName":"車廠地下",
+    "ChiSoundId":"",
+    "EngName":"DEPORT G/F",
     "EngSoundId":"",
   },
 ]
