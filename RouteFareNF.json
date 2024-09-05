@@ -17,62 +17,8 @@
     "priceY1": "0.0",
     "halfpriceY1": "0.0"
   },
-  {
-    "number": 1,
-    "route": "NR67",
-    "attribute": "circular",
-    "pigYZ": "",
-    "destZ": "HCS 恆馳火車站",
-    "engdestZ": "Hang Chi Railway Station",
-    "routeingZ": "正常路線", 
-    "destY": "SHP 蕭山豪庭",
-    "engdestY": "Shiu Hill Palace ",
-    "routeingY": "正常路線", 
-    "maxPZ": "1",
-    "priceZ1": "5.8",
-    "halfpriceZ1": "2.9",
-    "maxPY": "1",
-    "priceY1": "5.8",
-    "halfpriceY1": "2.9"
-  },
-  {
-    "number": 2,
-    "route": "NR68",
-    "attribute": "circular",
-    "pigYZ": "",
-    "destZ": "DTP 德爾塔廣場",
-    "engdestZ": "Delta Town Plaza",
-    "routeingZ": "正常路線", 
-    "destY": "SHP 蕭山豪庭",
-    "engdestY": "Shiu Hill Palace ",
-    "routeingY": "正常路線", 
-    "maxPZ": "1",
-    "priceZ1": "4.0",
-    "halfpriceZ1": "2.0",
-    "maxPY": "1",
-    "priceY1": "4.0",
-    "halfpriceY1": "2.0"
-  },
-  {
-    "number": 3,
-    "route": "NR69",
-    "attribute": "circular",
-    "pigYZ": "",
-    "destZ": "HCS 恆馳火車站",
-    "engdestZ": "Hang Chi Railway Station",
-    "routeingZ": "正常路線", 
-    "destY": "TVI 凱園",
-    "engdestY": "The Victoria",
-    "routeingY": "正常路線", 
-    "maxPZ": "1",
-    "priceZ1": "6.0",
-    "halfpriceZ1": "3.0",
-    "maxPY": "1",
-    "priceY1": "6.0",
-    "halfpriceY1": "3.0"
-  },
     {
-    "number": 4,
+    "number": 1,
     "route": "Y40",
     "attribute": "circular",
     "pigYZ": "",
@@ -90,7 +36,7 @@
     "halfpriceY1": "6.4"
   },
       {
-    "number": 5,
+    "number": 2,
     "route": "410R",
     "attribute": "circular",
     "pigYZ": "",
@@ -112,7 +58,7 @@
     "halfpriceY2": "1.0"
   },
         {
-    "number": 6,
+    "number": 3,
     "route": "420R",
     "attribute": "circular",
     "pigYZ": "",
@@ -134,7 +80,7 @@
     "halfpriceY2": "1.0"
   },
           {
-    "number": 7,
+    "number": 4,
     "route": "440R",
     "attribute": "circular",
     "pigYZ": "",
@@ -156,7 +102,7 @@
     "halfpriceY2": "1.0"
   },
           {
-    "number": 8,
+    "number": 5,
     "route": "442R",
     "attribute": "circular",
     "pigYZ": "",
@@ -176,5 +122,5 @@
     "halfpriceY1": "9.1",
     "priceY2": "2.0",
     "halfpriceY2": "1.0"
-  },
+  }
 ]
