@@ -33,7 +33,7 @@
     "maxPZ": "2",
     "priceZ1": "10.2",
     "priceZ2": "2.0",
-    "maxPY": "1",
+    "maxPY": "2",
     "priceY1": "12.8",
     "priceY2": "2.0"
   },
@@ -47,7 +47,7 @@
     "maxPZ": "2",
     "priceZ1": "9.6",
     "priceZ2": "2.0",
-    "maxPY": "1",
+    "maxPY": "2",
     "priceY1": "9.6",
     "priceY2": "2.0"
   },
@@ -61,7 +61,7 @@
     "maxPZ": "2",
     "priceZ1": "9.6",
     "priceZ2": "2.0",
-    "maxPY": "1",
+    "maxPY": "2",
     "priceY1": "9.6",
     "priceY2": "2.0"
   },
@@ -75,8 +75,32 @@
     "maxPZ": "2",
     "priceZ1": "18.2",
     "priceZ2": "2.0",
-    "maxPY": "1",
+    "maxPY": "2",
     "priceY1": "18.2",
     "priceY2": "2.0"
+  },
+            {
+    "number": 6,
+    "route": "SP1",
+    "destZ": "綠館公眾上落客區",
+    "engdestZ": "Green Concert Public Pick-up & Drop-off Area",
+    "destY": "綠館大橋二號貨倉",
+    "engdestY": "Green Concert Bridge Warehouse No.2",
+    "maxPZ": "1",
+    "priceZ1": "9.5",
+    "maxPY": "1",
+    "priceY1": "9.5"
+  },
+              {
+    "number": 7,
+    "route": "SP3",
+    "destZ": "綠館大橋行政大樓",
+    "engdestZ": "Green Concert Bridge Administration Building",
+    "destY": "青竹圍車站",
+    "engdestY": "Royal Land TPTR",
+    "maxPZ": "1",
+    "priceZ1": "6.5",
+    "maxPY": "1",
+    "priceY1": "6.5"
   }
 ]
