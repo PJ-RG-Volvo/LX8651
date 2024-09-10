@@ -79,12 +79,12 @@
 		"route": "RLR",
 		"front": 2,
 		"frontid1": "rbxassetid://15893418790",
-    "frontid2": "rbxassetid://15893418982",
+   		 "frontid2": "rbxassetid://15893418982",
 		"controllerid1": "rbxassetid://15893418790",
 		"controllerid2": "rbxassetid://15893418982",    
 		"side": 2,
 		"sideid1": "rbxassetid://15893418790",
-    "sideid2": "rbxassetid://15893418982",
+   		 "sideid2": "rbxassetid://15893418982"
 	},
   	{
 		"number": 9,
