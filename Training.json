@@ -1,6 +1,18 @@
 [
+    	{
+		"number": 0,
+		"route": "Z",
+		"front": 2,
+		"frontid1": "rbxassetid://95613417652661",
+		"frontid2": "rbxassetid://112722060683941",
+		"controllerid1": "rbxassetid://95613417652661",
+		"controllerid2": "rbxassetid://112722060683941",
+		"side": 2,
+		"sideid1": "rbxassetid://95613417652661",
+		"sideid2": "rbxassetid://112722060683941"
+	},
     {
-        "number": 0,
+        "number": 1,
         "route": "TB",
         "front": 4,
         "frontid1": "rbxassetid://95951644960505",
