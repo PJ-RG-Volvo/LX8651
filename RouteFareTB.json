@@ -1,0 +1,26 @@
+[
+  {
+    "number": 0,
+    "route": "HW",
+    "destZ": "暫停服務",
+    "engdestZ": "Not In Service",
+    "destY": "暫停服務",
+    "engdestY": "Not In Service",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0"
+  },
+    {
+    "number": 1,
+    "route": "TB",
+    "destZ": "訓練巴士",
+    "engdestZ": "Training Bus",
+    "destY": "訓練巴士",
+    "engdestY": "Training Bus",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0"
+  }
+]
