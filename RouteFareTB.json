@@ -2,25 +2,37 @@
   {
     "number": 0,
     "route": "HW",
-    "destZ": "暫停服務",
+    "attribute": "normal",
+    "pigYZ": "",
+    "destZ": "NIS 暫停服務",
     "engdestZ": "Not In Service",
-    "destY": "暫停服務",
+    "routeingZ": "正常路線", 
+    "destY": "NIS 暫停服務",
     "engdestY": "Not In Service",
+    "routeingY": "正常路線", 
     "maxPZ": "1",
     "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
     "maxPY": "1",
-    "priceY1": "0.0"
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
   },
-    {
+  {
     "number": 1,
     "route": "TB",
-    "destZ": "訓練巴士",
+    "attribute": "normal",
+    "pigYZ": "",
+    "destZ": "TRB 訓練巴士",
     "engdestZ": "Training Bus",
-    "destY": "訓練巴士",
-    "engdestY": "Training Bus",
+    "routeingZ": "正常路線", 
+    "destY": "TRB 訓練巴士",
+    "engdestY": "Training Bus ",
+    "routeingY": "正常路線", 
     "maxPZ": "1",
     "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
     "maxPY": "1",
-    "priceY1": "0.0"
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
   }
 ]
