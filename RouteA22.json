@@ -1,0 +1,17 @@
+[
+	{
+		"number": 1,
+		"route": "MAN",
+		"front": 3,
+		"frontid1": "rbxassetid://120349612733949",
+		"frontid2": "rbxassetid://135704279744620",
+ 		"frontid3": "rbxassetid://109231426031495",   
+		"controllerid1": "rbxassetid://90799426460511",
+		"controllerid2": "rbxassetid://125886806171507",
+  	"controllerid3": "rbxassetid://124411418266814",  
+		"side": 3,
+		"sideid1": "rbxassetid://120349612733949",
+		"sideid2": "rbxassetid://135704279744620",
+ 		"sideid3": "rbxassetid://109231426031495"
+	}
+]
