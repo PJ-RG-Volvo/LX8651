@@ -8,8 +8,10 @@
     "engdestY": "Not In Service",
     "maxPZ": "1",
     "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
     "maxPY": "1",
-    "priceY1": "0.0"
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
   },
     {
     "number": 1,
@@ -20,8 +22,10 @@
     "engdestY": "Steed Residence",
     "maxPZ": "1",
     "priceZ1": "3.8",
+    "halfpriceZ1": "1.9",
     "maxPY": "1",
-    "priceY1": "3.8"
+    "priceY1": "3.8",
+    "halfpriceY1": "1.9"
   },
       {
     "number": 2,
@@ -32,8 +36,10 @@
     "engdestY": "Steed Residence",
     "maxPZ": "1",
     "priceZ1": "3.8",
+    "halfpriceZ1": "1.9",
     "maxPY": "1",
-    "priceY1": "3.8"
+    "priceY1": "3.8",
+    "halfpriceY1": "1.9"
   },
         {
     "number": 3,
@@ -44,8 +50,10 @@
     "engdestY": "Steed Residence",
     "maxPZ": "1",
     "priceZ1": "3.8",
+    "halfpriceZ1": "1.9",
     "maxPY": "1",
-    "priceY1": "3.8"
+    "priceY1": "3.8",
+    "halfpriceY1": "1.9"
   },
           {
     "number": 4,
@@ -56,8 +64,10 @@
     "engdestY": "Chung Ping Exhibition Centre",
     "maxPZ": "1",
     "priceZ1": "3.8",
+    "halfpriceZ1": "1.9",
     "maxPY": "1",
-    "priceY1": "3.8"
+    "priceY1": "3.8",
+    "halfpriceY1": "1.9"
   },
           {
     "number": 5,
@@ -68,8 +78,10 @@
     "engdestY": "Tsui Wu Villa",
     "maxPZ": "1",
     "priceZ1": "8.4",
+    "halfpriceZ1": "4.2",
     "maxPY": "1",
-    "priceY1": "8.4"
+    "priceY1": "8.4",
+    "halfpriceY1": "4.2"
   },
             {
     "number": 6,
@@ -80,8 +92,10 @@
     "engdestY": "Tsui Wu Villa",
     "maxPZ": "1",
     "priceZ1": "21.4",
+    "halfpriceZ1": "10.7",
     "maxPY": "1",
-    "priceY1": "21.4"
+    "priceY1": "21.4",
+    "halfpriceY1": "10.7"
   },
             {
     "number": 7,
@@ -92,8 +106,10 @@
     "engdestY": "RICHB West Door Port",
     "maxPZ": "1",
     "priceZ1": "16.5",
+    "halfpriceZ1": "8.3",         
     "maxPY": "1",
-    "priceY1": "16.5"
+    "priceY1": "16.5",
+    "halfpriceY1": "8.3"          
   },
             {
     "number": 8,
@@ -104,8 +120,10 @@
     "engdestY": "West Wai",
     "maxPZ": "1",
     "priceZ1": "4.3",
+    "halfpriceZ1": "2.2",          
     "maxPY": "1",
-    "priceY1": "4.3"
+    "priceY1": "4.3",
+    "halfpriceY1": "2.2"    
   },
             {
     "number": 8,
@@ -116,8 +134,10 @@
     "engdestY": "Grundorf",
     "maxPZ": "1",
     "priceZ1": "4.3",
+    "halfpriceZ1": "2.2",
     "maxPY": "1",
-    "priceY1": "4.3"
+    "priceY1": "4.3",
+    "halfpriceY1": "2.2"
   },
             {
     "number": 9,
@@ -128,8 +148,10 @@
     "engdestY": "RICHB West Door Port",
     "maxPZ": "1",
     "priceZ1": "50.0",
+    "halfpriceZ1": "25.0",
     "maxPY": "1",
-    "priceY1": "50.0"
+    "priceY1": "50.0",
+    "halfpriceY1": "25.0"     
   },
             {
     "number": 10,
@@ -140,8 +162,10 @@
     "engdestY": "West Door Cruise Terminal",
     "maxPZ": "1",
     "priceZ1": "4.3",
+    "halfpriceZ1": "2.2",          
     "maxPY": "1",
-    "priceY1": "4.3"
+    "priceY1": "4.3",
+    "halfpriceY1": "2.2"   
   },
             {
     "number": 11,
@@ -152,8 +176,10 @@
     "engdestY": "Chung Ping MTR",
     "maxPZ": "1",
     "priceZ1": "27.5",
+    "halfpriceZ1": "13.8",         
     "maxPY": "1",
-    "priceY1": "27.5"
+    "priceY1": "27.5",
+    "halfpriceY1": "13.8"   
   },
             {
     "number": 12,
@@ -164,8 +190,10 @@
     "engdestY": "Dai Tin Park",
     "maxPZ": "1",
     "priceZ1": "32.8",
+    "halfpriceZ1": "16.4",         
     "maxPY": "1",
-    "priceY1": "32.8"
+    "priceY1": "32.8",
+    "halfpriceY1": "16.4" 
   },
             {
     "number": 12,
@@ -176,8 +204,10 @@
     "engdestY": "Ma Fu Lei Industrial Estate",
     "maxPZ": "1",
     "priceZ1": "10.7",
+    "halfpriceZ1": "5.4",         
     "maxPY": "1",
-    "priceY1": "10.7"
+    "priceY1": "10.7",
+    "halfpriceY1": "5.4" 
   },
             {
     "number": 13,
@@ -188,8 +218,10 @@
     "engdestY": "Airport Maintenance Area",
     "maxPZ": "1",
     "priceZ1": "21.4",
+    "halfpriceZ1": "10.7",         
     "maxPY": "1",
-    "priceY1": "21.4"
+    "priceY1": "21.4",
+    "halfpriceY1": "10.7" 
   },
             {
     "number": 14,
@@ -200,8 +232,10 @@
     "engdestY": "Airport Maintenance Area",
     "maxPZ": "1",
     "priceZ1": "16.5",
+    "halfpriceZ1": "8.3",         
     "maxPY": "1",
-    "priceY1": "16.5"
+    "priceY1": "16.5",
+    "halfpriceY1": "8.3"
   },
             {
     "number": 15,
@@ -209,11 +243,13 @@
     "destZ": "景泰",
     "engdestZ": "King Tai",
     "destY": "飛機維修區",
-    "engdestY": "Airport Maintenance Area",
+    "engdestY": "Airport Maintenance Area",,
     "maxPZ": "1",
     "priceZ1": "16.5",
+    "halfpriceZ1": "8.3",         
     "maxPY": "1",
-    "priceY1": "16.5"
+    "priceY1": "16.5",
+    "halfpriceY1": "8.3"
   },
               {
     "number": 16,
@@ -224,7 +260,9 @@
     "engdestY": "Airport Maintenance Area",
     "maxPZ": "1",
     "priceZ1": "27.5",
+    "halfpriceZ1": "13.8",         
     "maxPY": "1",
-    "priceY1": "27.5"
+    "priceY1": "27.5",
+    "halfpriceY1": "13.8"     
   }
 ]
