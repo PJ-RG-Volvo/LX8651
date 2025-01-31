@@ -336,7 +336,7 @@
     "halfpriceY1": "100.0"
   },
               {
-    "number": 23,
+    "number": 24,
     "route": "HBS",
     "destZ": "恆域口岸",
     "engdestZ": "Hanwick Port",
@@ -350,7 +350,7 @@
     "halfpriceY1": "60.0"
   },
               {
-    "number": 24,
+    "number": 25,
     "route": "HST",
     "destZ": "恆域口岸",
     "engdestZ": "Hanwick Port",
