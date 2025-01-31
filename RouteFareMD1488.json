@@ -126,7 +126,7 @@
     "halfpriceY1": "2.2"    
   },
             {
-    "number": 8,
+    "number": 9,
     "route": "WG1",
     "destZ": "大田公園",
     "engdestZ": "Dai Tin Park",
@@ -140,7 +140,7 @@
     "halfpriceY1": "2.2"
   },
             {
-    "number": 9,
+    "number": 10,
     "route": "CPB",
     "destZ": "松坪站",
     "engdestZ": "Chung Ping MTR",
@@ -154,7 +154,7 @@
     "halfpriceY1": "25.0"     
   },
             {
-    "number": 10,
+    "number": 11,
     "route": "CTR",
     "destZ": "松坪站",
     "engdestZ": "Chung Ping MTR",
@@ -168,7 +168,7 @@
     "halfpriceY1": "2.2"   
   },
             {
-    "number": 11,
+    "number": 12,
     "route": "TOUR",
     "destZ": "松坪站",
     "engdestZ": "Chung Ping MTR",
@@ -182,7 +182,7 @@
     "halfpriceY1": "13.8"   
   },
             {
-    "number": 12,
+    "number": 13,
     "route": "WDE",
     "destZ": "松坪站",
     "engdestZ": "Chung Ping MTR",
@@ -196,7 +196,7 @@
     "halfpriceY1": "16.4" 
   },
             {
-    "number": 12,
+    "number": 14,
     "route": "MFL",
     "destZ": "西門邨",
     "engdestZ": "West Door Estate",
@@ -210,7 +210,7 @@
     "halfpriceY1": "5.4" 
   },
             {
-    "number": 13,
+    "number": 15,
     "route": "AWW",
     "destZ": "西圍邨",
     "engdestZ": "West Wai Estate",
@@ -224,7 +224,7 @@
     "halfpriceY1": "10.7" 
   },
             {
-    "number": 14,
+    "number": 16,
     "route": "ACP",
     "destZ": "松坪七號",
     "engdestZ": "Chung Ping No.7",
@@ -238,7 +238,7 @@
     "halfpriceY1": "8.3"
   },
             {
-    "number": 15,
+    "number": 17,
     "route": "AKT",
     "destZ": "景泰",
     "engdestZ": "King Tai",
@@ -252,7 +252,7 @@
     "halfpriceY1": "8.3"
   },
               {
-    "number": 16,
+    "number": 18,
     "route": "ADT",
     "destZ": "大田海灘",
     "engdestZ": "Dai Tin Beach",
@@ -264,5 +264,19 @@
     "maxPY": "1",
     "priceY1": "27.5",
     "halfpriceY1": "13.8"     
+  },
+              {
+    "number": 19,
+    "route": "WDT",
+    "destZ": "西門郵輪碼頭",
+    "engdestZ": "West Door Cruise Terminal",
+    "destY": "西門郵輪碼頭",
+    "engdestY": "West Door Cruise Terminal",
+    "maxPZ": "1",
+    "priceZ1": "50.0",
+    "halfpriceZ1": "50.0",         
+    "maxPY": "1",
+    "priceY1": "50.0",
+    "halfpriceY1": "50.0"
   }
 ]
