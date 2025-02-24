@@ -362,5 +362,19 @@
     "maxPY": "1",
     "priceY1": "65.0",
     "halfpriceY1": "65.0"
+  },
+              {
+    "number": 26,
+    "route": "WHE",
+    "destZ": "翔宏市中心",
+    "engdestZ": "Cheung Wang Town Centre",
+    "destY": "松坪站",
+    "engdestY": "Chung Ping Station",
+    "maxPZ": "1",
+    "priceZ1": "160.0",
+    "halfpriceZ1": "160.0",         
+    "maxPY": "1",
+    "priceY1": "160.0",
+    "halfpriceY1": "160.0"
   }
 ]
