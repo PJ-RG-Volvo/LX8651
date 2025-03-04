@@ -11,31 +11,60 @@
 	},
 	{
 		"number": 1,
-		"route": "32SY",
+		"route": "320Y",
 		"front": 1,
-		"frontid1": "rbxassetid://98022360151747",
-		"controllerid1": "rbxassetid://132440028392520",
+		"frontid1": "rbxassetid://75394910542908",
+		"controllerid1": "rbxassetid://105377813410236",
 		"side": 1,
-		"sideid1": "rbxassetid://126137894670831"
+		"sideid1": "rbxassetid://71194292208931"
 	},
 	{
 		"number": 2,
-		"route": "32SZ",
+		"route": "320Z",
 		"front": 1,
-		"frontid1": "rbxassetid://125811991978256",
-		"controllerid1": "rbxassetid://117385604876933",
+		"frontid1": "rbxassetid://83522555494533",
+		"controllerid1": "rbxassetid://130799390496275",
 		"side": 1,
-		"sideid1": "rbxassetid://126137894670831"
+		"sideid1": "rbxassetid://71194292208931"
 	},
 	{
 		"number": 3,
-		"route": "32SW",
+		"route": "320W",
 		"front": 1,
 		"frontid1": "rbxassetid://137677159819138",
-		"controllerid1": "rbxassetid://132504823344356",
+		"controllerid1": "rbxassetid://71393481984442",
 		"side": 3,
-		"sideid1": "rbxassetid://130289472251495",
-  		"sideid2": "rbxassetid://86978715780015",
-   		"sideid3": "rbxassetid://76994820842061"
+		"sideid1": "rbxassetid://71393481984442",
+  		"sideid2": "rbxassetid://107659545596622",
+   		"sideid3": "rbxassetid://117291640711894"
+	},
+	{
+		"number": 4,
+		"route": "320BY",
+		"front": 1,
+		"frontid1": "rbxassetid://127232890028475",
+		"controllerid1": "rbxassetid://136937024603526",
+		"side": 1,
+		"sideid1": "rbxassetid://97144195347805"
+	},
+	{
+		"number": 5,
+		"route": "320BZ",
+		"front": 1,
+		"frontid1": "rbxassetid://122519628889690",
+		"controllerid1": "rbxassetid://75257927332474",
+		"side": 1,
+		"sideid1": "rbxassetid://97144195347805"
+	},
+	{
+		"number": 6,
+		"route": "320BW",
+		"front": 1,
+		"frontid1": "rbxassetid://108085826270456",
+		"controllerid1": "rbxassetid://104820800640950",
+		"side": 3,
+		"sideid1": "rbxassetid://121176053402668",
+  		"sideid2": "rbxassetid://107659545596622",
+   		"sideid3": "rbxassetid://117291640711894"
 	}
 ]
