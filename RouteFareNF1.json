@@ -8,8 +8,10 @@
     "engdestY": "Not In Service",
     "maxPZ": "1",
     "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
     "maxPY": "1",
-    "priceY1": "0.0"
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
   },
     {
     "number": 1,
@@ -20,8 +22,10 @@
     "engdestY": "Kam Yee Garden",
     "maxPZ": "1",
     "priceZ1": "12.8",
+    "halfpriceZ1": "6.4",
     "maxPY": "1",
-    "priceY1": "12.8"
+    "priceY1": "12.8",
+    "halfpriceY1": "6.4"
   },
     {
     "number": 2,
@@ -32,7 +36,9 @@
     "engdestY": "Hing Shing Station",
     "maxPZ": "1",
     "priceZ1": "12.8",
+    "halfpriceZ1": "6.4",
     "maxPY": "1",
-    "priceY1": "12.8"
+    "priceY1": "12.8",
+    "halfpriceY1": "6.4"
   }
 ]
