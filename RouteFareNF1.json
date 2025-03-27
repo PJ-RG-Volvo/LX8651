@@ -1,1 +1,38 @@
-
+[
+  {
+    "number": 0,
+    "route": "HW",
+    "destZ": "暫停服務",
+    "engdestZ": "Not In Service",
+    "destY": "暫停服務",
+    "engdestY": "Not In Service",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0"
+  },
+    {
+    "number": 1,
+    "route": "101R",
+    "destZ": "NPS 南浦站",
+    "engdestZ": "Nam Po Station",
+    "destY": "KYG 甘怡花園",
+    "engdestY": "Kam Yee Garden",
+    "maxPZ": "1",
+    "priceZ1": "12.8",
+    "maxPY": "1",
+    "priceY1": "12.8"
+  },
+        {
+    "number": 2,
+    "route": "701R",
+    "destZ": "POA 御海居",
+    "engdestZ": "Parc • Oasis",
+    "destY": "HSS 慶城站",
+    "engdestY": "Hing Shing Station",
+    "maxPZ": "1",
+    "priceZ1": "12.8",
+    "maxPY": "1",
+    "priceY1": "12.8"
+  }
+]
