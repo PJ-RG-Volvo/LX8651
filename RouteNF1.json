@@ -33,6 +33,15 @@
 		"number": 3,
 		"route": "701R",
 		"front": 1,
+		"frontid1": "rbxassetid://121520530527459",
+		"controllerid1": "rbxassetid://121520530527459",
+		"side": 1,
+		"sideid1": "rbxassetid://121520530527459"
+	},
+		{
+		"number": 4,
+		"route": "701RZ",
+		"front": 1,
 		"frontid1": "rbxassetid://118653243756048",
 		"controllerid1": "rbxassetid://118653243756048",
 		"side": 1,
