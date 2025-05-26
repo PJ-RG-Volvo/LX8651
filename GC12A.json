@@ -1,0 +1,30 @@
+[
+  {
+    "number": 0,
+    "route": "HW",
+    "destZ": "暫停服務",
+    "engdestZ": "Not In Service",
+    "destY": "暫停服務",
+    "engdestY": "Not In Service",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+    {
+    "number": 1,
+    "route": "GC12A",
+    "destZ": "藍豐里",
+    "engdestZ": "Lam Fung Lane",
+    "destY": "藍豐里",
+    "engdestY": "Lam Fung Lane",
+    "maxPZ": "1",
+    "priceZ1": "25.0",
+    "halfpriceZ1": "12.5",
+    "maxPY": "1",
+    "priceZ1": "25.0",
+    "halfpriceZ1": "12.5"
+  }
+]
