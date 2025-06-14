@@ -34,6 +34,52 @@
 		},
 	{
 		"number": 3,
+		"route": "S",
+		"front": 1,
+		"sec": 6,
+		"frontid1": "rbxassetid://124514647353342",
+		"ctrl": 1,
+		"controllerid1": "rbxassetid://79816989345471",
+		"side": 1,
+		"sideid1": "rbxassetid://124514647353342"
+		},
+	{
+		"number": 4,
+		"route": "PH",
+		"front": 1,
+		"sec": 6,
+		"frontid1": "rbxassetid://70683774260524",
+		"ctrl": 1,
+		"controllerid1": "rbxassetid://70548137587141",
+		"side": 1,
+		"sideid1": "rbxassetid://70683774260524"
+		},
+	{
+		"number": 5,
+		"route": "DT",
+		"front": 1,
+		"sec": 6,
+		"frontid1": "rbxassetid://84532024198886",
+		"ctrl": 1,
+		"controllerid1": "rbxassetid://86233130659908",
+		"side": 1,
+		"sideid1": "rbxassetid://84532024198886"
+		},
+	{
+		"number": 6,
+		"route": "CS",
+		"front": 2,
+		"sec": 6,
+		"frontid1": "rbxassetid://140695336044186",
+		"frontid2": "rbxassetid://73545731905380",
+		"ctrl": 1,
+		"controllerid1": "rbxassetid://89363324198456",
+		"side": 2,
+		"sideid1": "rbxassetid://140695336044186",
+		"sideid2": "rbxassetid://73545731905380"
+		},
+	{
+		"number": 7,
 		"route": "SR1Y",
 		"front": 1,
 		"sec": 6,
@@ -44,7 +90,7 @@
 		"sideid1": "rbxassetid://76223720974654"
 		},
 	{
-		"number": 4,
+		"number": 8,
 		"route": "SR1Z",
 		"front": 1,
 		"sec": 6,
@@ -55,7 +101,7 @@
 		"sideid1": "rbxassetid://90342726608057"
 		},
 	{
-		"number": 5,
+		"number": 9,
 		"route": "SR2Y",
 		"front": 1,
 		"sec": 6,
@@ -66,7 +112,7 @@
 		"sideid1": "rbxassetid://125327788270335"
 		},
 	{
-		"number": 6,
+		"number": 10,
 		"route": "SR2Z",
 		"front": 1,
 		"sec": 6,
