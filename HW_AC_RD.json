@@ -101,14 +101,14 @@
     "controllerid":	"rbxassetid://125206203085159",
     "frontid":	"rbxassetid://76223720974654",
     "sideid":	"rbxassetid://76223720974654",
-    "backid":	"rbxassetid://76223720974654",
+    "backid":	"rbxassetid://76223720974654"
      },
    {
-    "number":	13
-    "route":	"SR1Z"
-    "controllerid":	"rbxassetid://74238396367857"
-    "frontid":	"rbxassetid://90342726608057"
-    "sideid":	"rbxassetid://90342726608057"
+    "number":	13,
+    "route":	"SR1Z",
+    "controllerid":	"rbxassetid://74238396367857",
+    "frontid":	"rbxassetid://90342726608057",
+    "sideid":	"rbxassetid://90342726608057",
     "backid":	"rbxassetid://90342726608057"
      },
    {
