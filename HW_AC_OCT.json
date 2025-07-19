@@ -52,5 +52,23 @@
     "maxPY": "1",
     "priceY1": "0.0",
     "halfpriceY1": "0.0"
+  },
+      {
+    "number": 3,
+    "route": "HA1",
+    "attribute": "normal",
+    "pigYZ": "",
+    "destZ": "HCH 恆馳醫院",
+    "engdestZ": "Hang Chi Hospital",
+    "routeingZ": "正常路線", 
+    "destY": "HCR 恆馳火車站",
+    "engdestY": "Hang Chi Railway Station",
+    "routeingY": "正常路線", 
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
   }
 ]
