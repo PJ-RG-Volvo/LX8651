@@ -1,6 +1,12 @@
 import string
-import random # define the random module
-S = 681  # number of characters in the string
-#call random.choices() string module to find the string in Uppercase + numeric data.
-ran = ''.join(random.choices(string.ascii_uppercase + string.digits + string.ascii_lowercase, k = S))
-print("Generated text is : " + str(ran)) # print the random data
+import PIL
+from PIL import Image, ImageDraw, ImageFont
+
+S = 681
+
+img = Image.new('RGB', (400, 100), color=(255, 255, 255))
+
+d = ImageDraw.Draw(img)
+fnt = ImageFont.truetype('StrOrBytesPath', 40)
+d.text((50, 25), "Hello from Python!", font=fnt, fill=(0, 0, 0)) # Black text
+img.save('text_on_image.png')
