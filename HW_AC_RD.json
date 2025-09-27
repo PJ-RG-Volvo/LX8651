@@ -246,6 +246,14 @@
       "frontid":	"rbxassetid://134819442167093",
       "sideid":	"rbxassetid://134819442167093",
       "backid":	"rbxassetid://134819442167093"
+     },
+         {
+      "number":	31,
+      "route":	"H1NZ",
+      "controllerid":	"rbxassetid://120580720499017,rbxassetid://74145637717502",
+      "frontid":	"rbxassetid://85427528434130,rbxassetid://127314813805259",
+      "sideid":	"rbxassetid://91110838320684,rbxassetid://85427528434130,rbxassetid://127314813805259",
+      "backid":	"rbxassetid://91110838320684,rbxassetid://85427528434130,rbxassetid://127314813805259"
      }
 ]
 
