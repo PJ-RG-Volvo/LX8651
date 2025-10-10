@@ -278,6 +278,22 @@
       "frontid":	"rbxassetid://114300620468125",
       "sideid":	"rbxassetid://114300620468125",
       "backid":	"rbxassetid://114300620468125"
+     },
+      {
+      "number":	35,
+      "route":	"MOT",
+      "controllerid":	"rbxassetid://136856199230659",
+      "frontid":	"rbxassetid://82778187642825",
+      "sideid":	"rbxassetid://82778187642825",
+      "backid":	"rbxassetid://82778187642825"
+     },
+         {
+      "number":	36,
+      "route":	"ORT",
+      "controllerid":	"rbxassetid://117398112105620",
+      "frontid":	"rbxassetid://132462918385030",
+      "sideid":	"rbxassetid://132462918385030",
+      "backid":	"rbxassetid://132462918385030"
      }
 ]
 
