@@ -310,6 +310,14 @@
       "frontid":	"rbxassetid://83462540624423",
       "sideid":	"rbxassetid://83462540624423",
       "backid":	"rbxassetid://83462540624423"
-     }
+     },
+                 {
+      "number":	39,
+      "route":	"1126",
+      "controllerid":   "rbxassetid://87703411241237",
+      "frontid":	"rbxassetid://82206235489910",
+      "sideid":	"rbxassetid://82206235489910,rbxassetid://92414052594382",
+      "backid":	"rbxassetid://82206235489910,rbxassetid://92414052594382"
+     },
 ]
 
