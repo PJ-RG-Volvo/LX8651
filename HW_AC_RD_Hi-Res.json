@@ -1,0 +1,247 @@
+[
+    {
+        "number": 0,
+        "route": "NIS",
+        "controllerinfo": "暫停服務",
+        "frontid": "rbxassetid://120370156171083",
+        "sideid": "rbxassetid://120370156171083"
+    },
+    {
+        "number": 1,
+        "route": "T",
+        "controllerinfo": "試車",
+        "frontid": "rbxassetid://106371250076101",
+        "sideid": "rbxassetid://106371250076101"
+    },
+    {
+        "number": 2,
+        "route": "COR",
+        "controllerinfo": "大驗",
+        "frontid": "rbxassetid://101680598719419",
+        "sideid": "rbxassetid://101680598719419"
+    },
+    {
+        "number": 3,
+        "route": "S",
+        "controllerinfo": "員工巴士",
+        "frontid": "rbxassetid://115902201671969",
+        "sideid": "rbxassetid://115902201671969"
+    },
+    {
+        "number": 4,
+        "route": "PH",
+        "controllerinfo": "私人租用",
+        "frontid": "rbxassetid://131982997943840",
+        "sideid": "rbxassetid://131982997943840"
+    },
+    {
+        "number": 5,
+        "route": "T",
+        "controllerinfo": "車長訓練",
+        "frontid": "rbxassetid://106371250076101",
+        "sideid": "rbxassetid://106371250076101"
+    },
+    {
+        "number": 6,
+        "route": "MOT",
+        "controllerinfo": "工程部試車",
+        "frontid": "rbxassetid://82778187642825",
+        "sideid": "rbxassetid://82778187642825"
+    },
+    {
+        "number": 7,
+        "route": "ORT",
+        "controllerinfo": "營運部試路",
+        "frontid": "rbxassetid://90646175061474",
+        "sideid": "rbxassetid://90646175061474"
+    },
+    {
+        "number": 8,
+        "route": "HCR",
+        "controllerinfo": "恆馳火車站",
+        "frontid": "rbxassetid://86738997048035",
+        "sideid": "rbxassetid://122407386322784"
+    },
+    {
+        "number": 9,
+        "route": "HCF",
+        "controllerinfo": "恆馳碼頭",
+        "frontid": "rbxassetid://88299687226704",
+        "sideid": "rbxassetid://113714434419816"
+    },
+    {
+        "number": 10,
+        "route": "TCH",
+        "controllerinfo": "菁松山",
+        "frontid": "rbxassetid://104711190213553",
+        "sideid": "rbxassetid://132596040528944"
+    },
+    {
+        "number": 11,
+        "route": "DTP",
+        "controllerinfo": "德爾塔廣場",
+        "frontid": "rbxassetid://101840394349789",
+        "sideid": "rbxassetid://74324737146625"
+    },
+    {
+        "number": 12,
+        "route": "KCS",
+        "controllerinfo": "工廠街",
+        "frontid": "rbxassetid://133081622645433",
+        "sideid": "rbxassetid://84467926872980"
+    },
+    {
+        "number": 13,
+        "route": "LCE",
+        "controllerinfo": "禮雋圍東",
+        "frontid": "rbxassetid://105894107307791",
+        "sideid": "rbxassetid://134172084737041"
+    },
+    {
+        "number": 14,
+        "route": "LCW",
+        "controllerinfo": "禮雋圍",
+        "frontid": "rbxassetid://127360287179302",
+        "sideid": "rbxassetid://82519576103391"
+    },
+    {
+        "number": 15,
+        "route": "LUH",
+        "controllerinfo": "鹿坑",
+        "frontid": "rbxassetid://131015373815470",
+        "sideid": "rbxassetid://115509739093042"
+    },
+    {
+        "number": 16,
+        "route": "TSP",
+        "controllerinfo": "東燒坪",
+        "frontid": "rbxassetid://100363374149498",
+        "sideid": "rbxassetid://130006469814250"
+    },
+    {
+        "number": 17,
+        "route": "VIC",
+        "controllerinfo": "凱園",
+        "frontid": "rbxassetid://71829274005245",
+        "sideid": "rbxassetid://132192777488938"
+    },
+    {
+        "number": 18,
+        "route": "WPK",
+        "controllerinfo": "環埔角",
+        "frontid": "rbxassetid://72491579763990",
+        "sideid": "rbxassetid://121652000448369"
+    },
+    {
+        "number": 19,
+        "route": "WPR",
+        "controllerinfo": "環埔角道",
+        "frontid": "rbxassetid://82289744642344",
+        "sideid": "rbxassetid://70534721609961"
+    },
+    {
+        "number": 20,
+        "route": "STD",
+        "controllerinfo": "尚村車廠",
+        "frontid": "rbxassetid://79062570982676",
+        "sideid": "rbxassetid://79062570982676"
+    },
+    {
+        "number": 21,
+        "route": "SR1Y",
+        "controllerinfo": "聖里賈納書院",
+        "frontid": "rbxassetid://124875615043095",
+        "sideid": "rbxassetid://92739200810190"
+    },
+    {
+        "number": 22,
+        "route": "SR1Z",
+        "controllerinfo": "恆馳火車站",
+        "frontid": "rbxassetid://86552318171690",
+        "sideid": "rbxassetid://84471434291249"
+    },
+    {
+        "number": 23,
+        "route": "SR2Y",
+        "controllerinfo": "聖里賈納書院",
+        "frontid": "rbxassetid://92261167960403",
+        "sideid": "rbxassetid://87979507032594"
+    },
+    {
+        "number": 24,
+        "route": "SR2Z",
+        "controllerinfo": "菁松山",
+        "frontid": "rbxassetid://115321434800042",
+        "sideid": "rbxassetid://88688905421172"
+    },
+    {
+        "number": 25,
+        "route": "S01",
+        "controllerinfo": "菁松山",
+        "frontid": "rbxassetid://73794083085513,rbxassetid://110680713322168",
+        "sideid": "rbxassetid://108921689013957,rbxassetid://74786001727330"
+    },
+    {
+        "number": 26,
+        "route": "S02",
+        "controllerinfo": "鹿坑及環埔角",
+        "frontid": "rbxassetid://79434817770169,rbxassetid://71586475058561,rbxassetid://103056392658351",
+        "sideid": "rbxassetid://107658602593053,rbxassetid://96227062978738,rbxassetid://93544786934023"
+    },
+    {
+        "number": 27,
+        "route": "S03",
+        "controllerinfo": "恆馳(東)",
+        "frontid": "rbxassetid://132673717633170",
+        "sideid": "rbxassetid://132642372630439"
+    },
+    {
+        "number": 28,
+        "route": "S04",
+        "controllerinfo": "恆馳(西)",
+        "frontid": "rbxassetid://99317691833025",
+        "sideid": "rbxassetid://110480873857547"
+    },
+    {
+        "number": 29,
+        "route": "HA1Y",
+        "controllerinfo": "恆馳醫院",
+        "frontid": "rbxassetid://86716587250796",
+        "sideid": "rbxassetid://85479608733509"
+    },
+    {
+        "number": 30,
+        "route": "HA1Z",
+        "controllerinfo": "恆馳火車站",
+        "frontid": "rbxassetid://135288962544456",
+        "sideid": "rbxassetid://99330290082043"
+    },
+    {
+        "number": 31,
+        "route": "HC1Y",
+        "controllerinfo": "氡漕灣",
+        "frontid": "rbxassetid://126507942835263",
+        "sideid": "rbxassetid://94049413966875"
+    },
+    {
+        "number": 32,
+        "route": "HC1Z",
+        "controllerinfo": "恆馳碼頭",
+        "frontid": "rbxassetid://93458172530120",
+        "sideid": "rbxassetid://117509366925184"
+    },
+    {
+        "number": 33,
+        "route": "TNV",
+        "controllerinfo": "夜間探索號",
+        "frontid": "rbxassetid://103571326005625",
+        "sideid": "rbxassetid://103571326005625"
+    },
+    {
+        "number": 34,
+        "route": "V",
+        "controllerinfo": "Version 20251120",
+        "frontid": "rbxassetid://100715556735453",
+        "sideid": "rbxassetid://132192777488938"
+    }
+]
