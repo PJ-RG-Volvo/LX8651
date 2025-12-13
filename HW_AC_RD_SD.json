@@ -318,6 +318,14 @@
       "frontid":	"rbxassetid://86272177565421,rbxassetid://114385869983431",
       "sideid":	"rbxassetid://86272177565421,rbxassetid://114385869983431",
       "backid":	"rbxassetid://86272177565421,rbxassetid://114385869983431"
+     },
+                    {
+      "number":	40,
+      "route":	"VER",
+      "controllerid":   "rbxassetid://114340167517941",
+      "frontid":	"rbxassetid://86772352142499",
+      "sideid":	"rbxassetid://126176416485165",
+      "backid":	"rbxassetid://126176416485165"
      }
 ]
 
