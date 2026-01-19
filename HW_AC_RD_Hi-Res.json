@@ -243,5 +243,12 @@
         "controllerinfo": "Version 20251120",
         "frontid": "rbxassetid://86883870232866",
         "sideid": "rbxassetid://94052987112659"
+    },
+    {
+        "number": 35,
+        "route": "CNY",
+        "controllerinfo": "恭賀新禧",
+        "frontid": "rbxassetid://99045108905550",
+        "sideid": "rbxassetid://99045108905550"
     }
 ]
