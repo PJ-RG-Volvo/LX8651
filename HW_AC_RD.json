@@ -326,6 +326,14 @@
       "frontid":	"rbxassetid://126176416485165",
       "sideid":	"rbxassetid://126176416485165",
       "backid":	"rbxassetid://126176416485165"
+     },
+                       {
+      "number":	41,
+      "route":	"CNY",
+      "controllerid":   "rbxassetid://118619602496998",
+      "frontid":	"rbxassetid://96150423182068,",
+      "sideid":	"rbxassetid://96150423182068,rbxassetid://99633437654864",
+      "backid":	"rbxassetid://96150423182068,rbxassetid://99633437654864"
      }
 ]
 
