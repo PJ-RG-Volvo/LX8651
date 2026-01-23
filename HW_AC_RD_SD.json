@@ -331,9 +331,17 @@
       "number":	41,
       "route":	"CNY",
       "controllerid":   "rbxassetid://123222407616133",
-      "frontid":	"rbxassetid://96150423182068,",
+      "frontid":	"rbxassetid://96150423182068",
       "sideid":	"rbxassetid://96150423182068,rbxassetid://99633437654864",
       "backid":	"rbxassetid://96150423182068,rbxassetid://99633437654864"
+     },
+                          {
+      "number":	42,
+      "route":	"WDAA",
+      "controllerid":   "rbxassetid://101026376529317",
+      "frontid":	"rbxassetid://105206603858953",
+      "sideid":	"rbxassetid://105206603858953",
+      "backid":	"rbxassetid://105206603858953"
      }
 ]
 
