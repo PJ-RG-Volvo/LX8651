@@ -1,34 +1,38 @@
-{
-  "type": "RouteList",
-  "version": "1.0",
-  "data": [
+[
     {
-      "route": "S01",
-      "orig_tc": "尚村車廠",
-      "orig_en": "Sheung Tsuen Depot",
-      "dest_tc": "菁松山邨",
-      "dest_en": "Tsing Chong Hill Estate",
-    },
-    {
-      "route": "S02",
-      "orig_tc": "尚村車廠",
-      "orig_en": "Sheung Tsuen Depot",
-      "dest_tc": "環埔角",
-      "dest_en": "Wan Po Kok",
-    },
-    {
-      "route": "S03",
-      "orig_tc": "尚村車廠",
-      "orig_en": "Sheung Tsuen Depot",
-      "dest_tc": "恆馳（東）",
-      "dest_en": "Hang Chi (East)",
-    },
-    {
-      "route": "S04",
-      "orig_tc": "尚村車廠",
-      "orig_en": "Sheung Tsuen Depot",
-      "dest_tc": "恆馳（西）",
-      "dest_en": "Hang Chi (West)",
-    }
-  ]
-}
+      "number":	0,
+      "route":	"HA1",
+      "dest":	"恆馳醫院,恆馳火車站",
+      "code":	"HA1Y,HA1Z"
+     },
+         {
+      "number":	1,
+      "route":	"HC1W",
+      "dest":	"氡漕灣泳灘,,德爾塔廣場,",
+      "code":	"HC1Y,HC1W,HC1Z,HC1X"
+     },
+      {
+      "number":	2,
+      "route":	"ST01",
+      "dest":	"尚村車廠",
+      "code":	"ST01"
+     },
+      {
+      "number":	3,
+      "route":	"ST02",
+      "dest":	"尚村車廠",
+      "code":	"ST02"
+     },
+      {
+      "number":	4,
+      "route":	"ST03",
+      "dest":	"尚村車廠",
+      "code":	"ST03"
+     },
+          {
+      "number":	5,
+      "route":	"ST04",
+      "dest":	"尚村車廠",
+      "code":	"ST04"
+     }
+]
