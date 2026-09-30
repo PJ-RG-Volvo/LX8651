@@ -112,8 +112,16 @@
       "sideid":	"rbxassetid://96150423182068,rbxassetid://99633437654864",
       "backid":	"rbxassetid://96150423182068,rbxassetid://99633437654864"
      },
+                          {
+      "number":	13,
+      "route":	"RR8",
+      "controllerid":   "rbxassetid://131597219792196",
+      "frontid":	"rbxassetid://85219985054664",
+      "sideid":	"rbxassetid://85219985054664",
+      "backid":	"rbxassetid://85219985054664"
+     },
                       {
-      "number":	14,
+      "number":	15,
       "route":	"NS12",
       "controllerid":   "rbxassetid://120347480943965,rbxassetid://79332981552855",
       "frontid":	"rbxassetid://88693636063283,rbxassetid://120037081026223",
@@ -121,7 +129,7 @@
       "backid":	"rbxassetid://88693636063283"
      },
                         {
-      "number":	15,
+      "number":	16,
       "route":	"69UW",
       "controllerid":   "rbxassetid://111398826910288,rbxassetid://100181931723796",
       "frontid":	"rbxassetid://89368883079267,rbxassetid://83684875168155",
@@ -129,7 +137,7 @@
       "backid":	"rbxassetid://89368883079267,rbxassetid://83684875168155"
      },
                           {
-      "number":	16,
+      "number":	17,
       "route":	"69UX",
       "controllerid":   "rbxassetid://105051916005541,rbxassetid://126274449661502",
       "frontid":	"rbxassetid://112021891445259,rbxassetid://125858127130815",
@@ -137,7 +145,7 @@
       "backid":	"rbxassetid://112021891445259,rbxassetid://125858127130815"
      },
                             {
-      "number":	17,
+      "number":	18,
       "route":	"69UY",
       "controllerid":   "rbxassetid://140671576859411",
       "frontid":	"rbxassetid://81927269563579",
@@ -145,7 +153,7 @@
       "backid":	"rbxassetid://81927269563579,rbxassetid://115530560811495"
      },
                             {
-      "number":	18,
+      "number":	19,
       "route":	"69UZ",
       "controllerid":   "rbxassetid://105051916005541,rbxassetid://126274449661502",
       "frontid":	"rbxassetid://112021891445259,rbxassetid://125858127130815",
